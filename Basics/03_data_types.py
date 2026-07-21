@@ -7,8 +7,8 @@ print(b)
 # Float 
 a = 1.2
 b = 5.4
-print(c)
-print(d)
+print(a)
+print(b)
 
 # Complex 
 a = 2+6j
